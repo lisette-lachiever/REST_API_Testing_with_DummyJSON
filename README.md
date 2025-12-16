@@ -15,7 +15,7 @@ The project demonstrates **authentication**, **CRUD operations**, **environment 
 * **API Provider:** DummyJSON
 * **Base URL:** `https://dummyjson.com`
 * **Authentication:** Token-based (Bearer Token)
-* **API Documentation:** DummyJSON Docs
+* **API Documentation:** [DummyJSON Docs](https://dummyjson.com/docs)  
 
 ---
 
