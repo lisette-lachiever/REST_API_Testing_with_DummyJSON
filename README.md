@@ -23,9 +23,9 @@ The project demonstrates **authentication**, **CRUD operations**, **environment 
 
 ```
 ├── README.md
-├── Documentation.pdf             # Detailed assignment documentation
-├── DummyJSON_Collection.json     # Postman collection export
-└── DummyJSON_Environment.json    # Postman environment export
+├── Documentation.pdf                                           # Detailed assignment documentation
+├── REST_API_Testing_with_DummyJSON.postman_collection.json     # Postman collection export
+└── DummyJSON Environment.postman_environment.json              # Postman environment export
 ```
 
 ---
